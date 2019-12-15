@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Exercise7 {
     public static void main(String[] args) {
-        //Exercise 6: Addition
+        //Exercise 7: Multiplication
 
         Scanner numberScanner = new Scanner(System.in);
         System.out.println("Please enter the first number:");

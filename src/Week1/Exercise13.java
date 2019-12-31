@@ -7,7 +7,6 @@ public class Exercise13 {
     public static void main(String[] args) throws Exception {
         //Exercise 13: NHL statistics, part 1
 
-
         Scanner reader = new Scanner(System.in);
         System.out.println("Top ten by points");
         NHLStatistics.sortByPoints();

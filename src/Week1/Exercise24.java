@@ -5,7 +5,7 @@ import nhlstats.NHLStatistics;
 
 public class Exercise24 {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception {
         //Exercise 24: NHL statistics, part 2
 
         Scanner reader = new Scanner(System.in);

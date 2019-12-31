@@ -13,7 +13,7 @@ public class Exercise21 {
         if (userYear % 4 == 0 && userYear % 100 == 0 && userYear % 400 == 0) {
             System.out.println("This is a leap year.");
         } else if (userYear % 100 == 0 && userYear % 400 != 0) {
-            System.out.println("This is not a leap year.");
+            System.out.println("This year is not a leap year.");
         } else if (userYear % 4 == 0) {
             System.out.println("This is a leap year.");
         } else {

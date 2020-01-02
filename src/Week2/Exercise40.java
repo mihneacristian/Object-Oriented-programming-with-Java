@@ -43,6 +43,9 @@ public class Exercise40 {
 
     public static void main(String[] args) {
         //Exercise 40: Printing Like A Boss
+        //Exercise 40.1: Printing stars and whitespaces
+        //Exercise 40.2: Printing a right-aligned triangle
+        //Exercise 40.3: Printing a Christmas tree
 
         //printTriangle(5);
         //xmasTree(4);

@@ -2,7 +2,7 @@ package Week3;
 
 import java.util.Scanner;
 
-public class Exercies47 {
+public class Exercise47 {
     public static int calculateCharacters (String text) {
         int lengthOfText = text.length();
         return lengthOfText;

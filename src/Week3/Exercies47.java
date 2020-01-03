@@ -14,6 +14,7 @@ public class Exercies47 {
         Scanner in = new Scanner(System.in);
         System.out.println("Type your name: ");
         String nameOfUser = in.nextLine();
+
         int answer = calculateCharacters(nameOfUser);
         System.out.println("Number of characters: " + answer);
     }

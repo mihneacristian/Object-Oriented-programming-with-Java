@@ -23,10 +23,10 @@ public class Exercise50 {
         if (userName.length() < 3) {
             System.out.println("");
         } else {
-            char firstChar = separatingCharacters(userName, 1);
-            char secondChar = separatingCharacters(userName, 2);
-            char thirdChar = separatingCharacters(userName, 3);
-            printCharacters(firstChar, secondChar, thirdChar);
+            char firstCharacter = separatingCharacters(userName, 1);
+            char secondCharacter = separatingCharacters(userName, 2);
+            char thirdCharacter = separatingCharacters(userName, 3);
+            printCharacters(firstCharacter, secondCharacter, thirdCharacter);
         }
     }
 }

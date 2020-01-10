@@ -36,10 +36,7 @@ class Account {
     }
 }
 
-public class Exercise72 extends Account {
-    public Exercise72(String owner, double balance) {
-        super(owner, balance);
-    }
+public class Exercise72 {
 
     public static void main(String[] args) {
         //Exercise 72: Accounts
